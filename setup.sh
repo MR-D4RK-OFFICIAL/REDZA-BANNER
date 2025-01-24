@@ -12,14 +12,6 @@ if [[ ! -f $BANNER_FILE ]]; then
 #!/usr/bin/bash
 clear
 
-# Developer Information
-echo -e "\033[1;36m─────────────────────────────────────────────────────\033[0m"
-echo -e "\033[1;33m★彡[ DEVELOPER INFO ]彡★\033[0m"
-echo -e "\033[1;32mName:        MD SOFIKUL ISLAM\033[0m"
-echo -e "\033[1;32mGitHub:      \033[1;34mMR-D4RK-OFFICIAL\033[0m"
-echo -e "\033[1;32mTeam:        \033[1;34mCIVILIAN CYBER EXPERT FORCE\033[0m"
-echo -e "\033[1;36m─────────────────────────────────────────────────────\033[0m"
-
 # Banner Design
 echo -e "\e[1;32m
 ██████╗ ███████╗██████╗ ███████╗ █████╗ 
